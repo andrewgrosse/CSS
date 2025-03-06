@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(7, 0, 6);
+  font-family: fantasy;
+  color: white;
+  font-size: 56px;
+}
+
+p{
+color: white;
+font-size: 30px;
+
+}
+
+a{
+color: white;
+font-size: 15px;
+}
+
+/* #grogu {} */
+
+h1.header {
+font-size: larger;
+
+}
+
+.smaller {
+
+  font-size: 25px;
+}
